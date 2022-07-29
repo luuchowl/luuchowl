@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **DirectX, Shaders, Procedural and Automation.**
 
-- 📫 How to reach me **lucas_lam@live.com**
+- 📫 E-mail me at **lucas_lam@live.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
