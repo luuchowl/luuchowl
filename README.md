@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A brazilian indie game developer. I make tools, shaders, scripts and plugins.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luuchowl" alt="luuchowl" /></a> </p>
+
 
 - 🔭 I’m currently working on **Velvet Sand Memories**
 
