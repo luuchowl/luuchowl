@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Velvet Sand Memories**
 
-- 💬 Ask me about **DirectX, Shaders, Procedural and Automation.**
-
 - 📫 E-mail me at **lucas_lam@live.com**
 
 <h3 align="left">Connect with me:</h3>
