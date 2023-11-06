@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working at **DXGameworks**
+- 🔭 I’m currently working at **Globant**
 
 - 📫 E-mail me at **lucas_lam@live.com**
 
